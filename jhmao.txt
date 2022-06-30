@@ -8,7 +8,7 @@
 
 
 "sites":[
-{"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
