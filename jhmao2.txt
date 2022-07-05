@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"http://gg.gg/tvboxjar",
+"spider":"https://wuyougg.github.io/maomao/qiaojigou.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
