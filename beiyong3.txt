@@ -93,7 +93,7 @@
 ]
 }
 ],
-"spider":"https://wuyougg.github.io/maomao/top93.jar",
+"spider":"https://wuyougg.github.io/maomao/top94.jar",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
